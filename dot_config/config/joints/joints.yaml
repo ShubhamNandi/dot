@@ -1,0 +1,23 @@
+left_front:
+  - Rev2
+  - Rev6
+  - Rev10
+  - LFfoot
+
+right_front:
+  - Rev1
+  - Rev5
+  - Rev9
+  - RFfoot
+
+left_hind:
+  - Rev3
+  - Rev7
+  - Rev11
+  - LHfoot
+
+right_hind:
+  - Rev4
+  - Rev8
+  - Rev12
+  - RHfoot
